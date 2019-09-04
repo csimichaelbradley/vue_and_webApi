@@ -13,7 +13,7 @@
     "@progress/kendo-theme-default": "^2.62.0",
     "@progress/kendo-ui": "^2018.3.1205",
     "@progress/kendo-window-vue-wrapper": "^2018.3.1025",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
